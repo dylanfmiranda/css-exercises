@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.cool {
+  background-color: #ff8a9e;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.cool.big {
+  font-size: 24px;
+}
+#blue {
+    color: #0000ab; 
+    font-size: 36px;
+}
+#unique {
+    background-color: #89ec89c4;
+    font-size: 24px;
+    font-weight: bold;
+}
